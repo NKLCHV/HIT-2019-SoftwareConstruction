@@ -1,0 +1,80 @@
+2019-05-18 22:02:17   main:0  -  circularorbit.AtomStructureOrbit:readFiles  -  ERROR   读取文件错误	原子名错误
+	解决：重新读文件
+2019-05-26 17:24:44   main:0  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:44   main:68  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:130  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:183  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:201  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:236  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:268  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:314  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:369  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:402  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:495  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:528  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:545  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:561  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:636  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:652  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:684  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:701  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:734  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:800  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:834  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:867  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:900  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:917  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:958  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:45   main:1047  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1105  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1151  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1200  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1249  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1296  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1334  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1428  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1459  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1482  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1510  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1538  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1563  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
+2019-05-26 17:24:46   main:1592  -  circularorbit.TrackGameOrbit:processLine  -  ERROR   读取文件错误	空格数量有误
+	解决：重新读文件
